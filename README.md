@@ -5,9 +5,9 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-* Software engineering is the process of creating and managing software, such as apps or programs, by following a series of organized steps. It involves designing how the software will look and function, writing the code 
-  to build it, testing it to ensure it works correctly, deploying it so users can access it, and maintaining it by fixing issues and making improvements. This approach helps produce high-quality software that meets user's 
-  needs. It is very important in the tech industry as companies and organisations need software in this day and age.
+Software engineering is the process of creating and managing software, such as apps or programs, by following a series of organized steps. It involves designing how the software will look and function, writing the code 
+to build it, testing it to ensure it works correctly, deploying it so users can access it, and maintaining it by fixing issues and making improvements. This approach helps produce high-quality software that meets user's 
+needs. It is very important in the tech industry as companies and organisations need software in this day and age.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 * Waterfall Model -  It introduced the idea of dividing software development into distinct phases like requirements, design, implementation, and testing.
